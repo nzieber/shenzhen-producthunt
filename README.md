@@ -7,4 +7,4 @@ This is a github page for the Shenzhen product hunt community
 * Some actual working content
 
 ## Contributing
-Anyone can contribute. Just fork and send a pull request.
+Anyone can contribute. Just fork and send a pull request. (or give me your github username)
