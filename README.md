@@ -1,6 +1,6 @@
 # Shenzhen Product Hunt Community Website
 ## About
-This is a github page for the Shenzhen product hunt community
+This is a github page for the Hong Kong Product Hunt community
 
 ## What is needed
 * ~~A nice domain name for this repo.~~
