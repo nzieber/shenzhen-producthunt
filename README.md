@@ -3,7 +3,7 @@
 This is a github page for the Shenzhen product hunt community
 
 ## What is needed
-* A nice domain name for this repo.
+* ~~A nice domain name for this repo.~~
 * Some actual working content
 
 ## Contributing
